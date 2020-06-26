@@ -6,7 +6,8 @@
 
 # Radeon™ RX 570 GAMING 4G
 
-# - Path clover for 9 gen cpu :https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/coffee-lake
+# Path clover for 9 gen cpu :https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/coffee-lake
+
 # Kext:
     + AppleALC.kext
     + IntelMausiEthernet.kext
