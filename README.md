@@ -19,5 +19,3 @@
         + RealtekRTL8111.kext
 # Working:
     - Most of all 
-# Not working:
-    - Sleep could make black screen , so you need to turn off auto sleep on setting
