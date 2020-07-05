@@ -4,7 +4,7 @@
 # Spec
     - MSI-B356-PRO-VH
     - CPU Intel® Core i3 9100F / 6M Cache / 3.6GHz up to 4.2GHz
-    - GIGABYTE Radeon™ RX 570 Gaming 4G
+    - ROG-STRIX-RX570-O4G-GAMING
 # Config
     - Kext:
         + AppleALC.kext
