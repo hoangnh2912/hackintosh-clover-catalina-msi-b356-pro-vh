@@ -8,7 +8,6 @@
 # Config
     - Kext:
         + AppleALC.kext
-        + IntelMausiEthernet.kext
         + Lilu.kext
         + SMCProcessor.kext
         + SMCSuperIO.kext
