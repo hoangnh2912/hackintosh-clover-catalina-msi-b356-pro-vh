@@ -3,7 +3,7 @@
     - Clover
 # Spec
     - MSI-B356-PRO-VH
-    - CPU Intel® Core i3 9100F / 6M Cache / 3.6GHz up to 4.2GHz
+    - CPU Intel® Core i3 9400F
     - ROG-STRIX-RX570-O4G-GAMING
     - SSD 256G Netac N535V Sata III 6Gb/s
     - 8GB RAM DDR4
